@@ -56,7 +56,7 @@ Hi {}, kenalin nama gua {}!
 Guna nya gua buat memanage grup lu biar keren ya ngentot
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**USERNAME KU ADALAH :** [DIABLO](http://t.me/AzelhelpBot)
+▪**TUAN GUA ADALAH :** [AZEL](http://t.me/Kicuh)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
