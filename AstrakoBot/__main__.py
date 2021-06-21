@@ -52,8 +52,8 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-Hi {}, kenalin nama gua {}!
-Guna nya gua buat memanage grup lu biar keren ya ngentot
+Hi {}, my name is {}!
+OWNER:MOON SI CIPAN
 ━─━─━─━─━─━─━─━─━─━─━
 
 ▪**TUAN GUA ADALAH :** [AZEL](http://t.me/Kicuh)
