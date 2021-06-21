@@ -52,11 +52,8 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-Hi {}, Perkenalkan,nama saya {}!
-Saya adalah robot yang bisa membantumu memanage grup kamu. 
-Cepat Undang aku ke grup mu, Supaya aku bisa memberantas para penjahat.
-Aku di buat khusus Untuk membantu kalian,mengusir para jamet telegram yang meresahkan!😋.
-Aku hanya robot tapi Aku juga bisa Galau, jangan Sakiti aku ya mas!!
+Hi {}, kenalin nama gua {}!
+Guna nya gua buat memanage grup lu biar keren ya ngentot
 ━─━─━─━─━─━─━─━─━─━─━
 
 ▪**USERNAME KU ADALAH :** [DIABLO](http://t.me/AzelhelpBot)
