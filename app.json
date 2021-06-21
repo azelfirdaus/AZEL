@@ -1,7 +1,7 @@
 {
-      "name": "AZE BOT",
+      "name": "DIABLO BOT",
       "description": "BOT YANG DIGUNAKAN UNTUK MEMANAGE GROUP ANDA.",
-      "logo": "https://telegra.ph/file/00131fa3dd81ff230b273.jpg",
+      "logo": "https://telegra.ph/file/e28b328a7509f11963de9.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "AstrakoBot"
       ],   
-   "repository": "https://github.com/ramadhani892/Goku",
+   "repository": "https://github.com/azelfirdaus/Azelbot",
    "addons": [
       {
          "options": {
@@ -46,12 +46,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "mixiologist"
+         "value": "kicuh"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to AstrakoBot support than consider you made an enemy.",
          "required": true,
-         "value": "@teman_random"
+         "value": "Deadendzs"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
