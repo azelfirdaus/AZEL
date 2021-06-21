@@ -1,7 +1,7 @@
-<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/Kicuh">DIABLO</a></b></h2>
+<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/Kicuh">AZEL</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/azelfirdaus/DIABLO">
+   <a href="https://github.com/azelfirdaus/AZEL">
    <br>
    <br>
 </p>
